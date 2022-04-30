@@ -1,0 +1,15 @@
+{
+  "name": "file-system-organizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin":{
+    "arif": "main.js"
+  }
+}
